@@ -6,7 +6,7 @@ the airfare and predict the airfare.
 Steps Involved:
 1. Data Collection
 2. Data storage of azure account
-3. Data Cleanig
+3. Data Cleaning
 4. Merged Dataframes
 5. Spark-Sql queries
 6. Performed Exploratory Data Analysis
